@@ -8,3 +8,6 @@ I tried to simplify the UI as much as possible so there is one input-box and two
 
 When "Home" Button is pressed/clicked it sends to Home Page .
 When "Favourites" button is pressed/clicked it sends to Favourites Page and display the item which is marked as favourites.
+
+
+https://rohanrrj.github.io/superhero-hunter/index.html
